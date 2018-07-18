@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Akathistos;
+  src: url(../fonts/Akathistos/AkathUcs8.ttf); 
+}
+
+@font-face {
+  font-family: Oglavie_Ie;
+  src: url(../fonts/Oglavie/OglIeUcs8.ttf); 
+}
+
+@font-face {
+  font-family: Oglavie_So;
+  src: url(../fonts/Oglavie/OglSoIeUcs8.ttf); 
+}
+
+@font-face {
+  font-family: Zlatoust;
+  src: url(../fonts/Zlatoust/ZlatSoKUcs.ttf); 
+}
